@@ -1,0 +1,12 @@
+baseURL: "https://example.com"
+languageCode: "cs-CZ"
+title: "Site"
+description: "Description"
+
+# params:
+#   socials:
+#     instagram:
+#     github:
+#   -> Open Graph <-
+#   images:
+#   - 
