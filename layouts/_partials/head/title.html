@@ -1,0 +1,5 @@
+{{ if page.IsHome }}
+  {{ site.Title }}
+{{ else }}
+  {{ site.Title }} | {{ .Title }}
+{{ end }}
