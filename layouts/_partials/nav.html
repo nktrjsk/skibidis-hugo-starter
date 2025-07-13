@@ -1,0 +1,8 @@
+{{ if site.Params.Logo }}
+  <img src="{{ site.Params.Logo.Path }}"/>
+  {{ if .Text }}
+    <span>{{ site.Title }}</span>
+  {{ end }}
+{{ else }}
+  <span>{{ site.Title }}</span>
+{{ end }}

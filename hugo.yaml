@@ -7,6 +7,9 @@ description: "Description"
 #   socials:
 #     instagram:
 #     github:
-#   -> Open Graph <-
-#   images:
-#   - 
+#   logo:
+#     path: "logo.png"
+#     text: true
+# #  -> Open Graph <-
+# #  images:
+# #  - 

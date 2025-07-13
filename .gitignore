@@ -16,3 +16,5 @@ hugo.linux
 
 # npm
 node_modules/
+
+static/logo.png
